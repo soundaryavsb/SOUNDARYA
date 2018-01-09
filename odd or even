@@ -1,0 +1,17 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+int num;
+clrscr();
+scanf("%d",&num);
+if(n%2==0)
+{
+printf("Even");
+}
+else
+{
+printf("odd");
+}
+}
+
